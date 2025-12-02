@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435419844533",
+    "project_id": "immobilierapp-fd8a0",
+    "storage_bucket": "immobilierapp-fd8a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435419844533:android:ca169728d3eb96e5a693fc",
+        "android_client_info": {
+          "package_name": "com.example.flutterapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAX6L919fEjPuNaDVG_4ZzSi80Wat5yoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435419844533:android:ee66037c31ec4d3aa693fc",
+        "android_client_info": {
+          "package_name": "com.example.immobilier_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAX6L919fEjPuNaDVG_4ZzSi80Wat5yoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

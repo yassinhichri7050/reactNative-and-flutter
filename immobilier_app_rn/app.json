@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Gold Meuble",
+    "slug": "immobilier-app-rn",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.goldmeuble.app"
+    },
+    "android": {
+      "package": "com.goldmeuble.app",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "plugins": [
+      "expo-location",
+      "expo-image-picker",
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
